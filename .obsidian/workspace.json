@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f71d554c156c1e53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
             "id": "304b56c25d1a1ed1",
             "type": "leaf",
             "state": {
@@ -34,25 +20,93 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "ab486b6f8a21dc7e",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "f1490c925b8f80ab",
+            "id": "ecce6692a2c25f20",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Karl.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Karl"
+            }
+          },
+          {
+            "id": "b164a7778d5ca611",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Peter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Peter"
+            }
+          },
+          {
+            "id": "5d3366c3d73c9580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "René.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "René"
+            }
+          },
+          {
+            "id": "0c2b263d870ae0a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Charles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Charles"
+            }
+          },
+          {
+            "id": "1ecbe13cf10ce370",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alan"
+            }
+          },
+          {
+            "id": "020dfc8305ad0c06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alan"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -214,10 +268,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "304b56c25d1a1ed1",
+  "active": "020dfc8305ad0c06",
   "lastOpenFiles": [
-    "Welcome.md",
+    "Charles.md",
+    "Karl.md",
+    "notes.md",
+    "Peter.md",
+    "René.md",
+    "Alan.md",
+    "Untitled.canvas",
     "README.md",
+    "Welcome.md",
     "create a link.md"
   ]
 }
