@@ -8,105 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "304b56c25d1a1ed1",
+            "id": "961ad986deaeafdc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Karl/Map of beliefs.canvas",
+                "viewState": {
+                  "x": -565.412445730825,
+                  "y": 244.79594790159192,
+                  "zoom": -1.3932119324948546
+                }
               },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "ecce6692a2c25f20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Karl.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Karl"
-            }
-          },
-          {
-            "id": "b164a7778d5ca611",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Peter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Peter"
-            }
-          },
-          {
-            "id": "5d3366c3d73c9580",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "René.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "René"
-            }
-          },
-          {
-            "id": "0c2b263d870ae0a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Charles.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Charles"
-            }
-          },
-          {
-            "id": "1ecbe13cf10ce370",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Alan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Alan"
-            }
-          },
-          {
-            "id": "020dfc8305ad0c06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Alan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Alan"
+              "icon": "lucide-layout-dashboard",
+              "title": "Map of beliefs"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -268,16 +186,41 @@
       "bases:Create new base": false
     }
   },
-  "active": "020dfc8305ad0c06",
+  "active": "961ad986deaeafdc",
   "lastOpenFiles": [
-    "Charles.md",
-    "Karl.md",
+    "René/Map of beliefs.canvas",
+    "Karl/Map of beliefs.canvas",
+    "Peter/Map of beliefs.canvas",
+    "Karl/Propagation tactics.md",
+    "Alan/Rites.md",
+    "Alan/Resonant narratives.md",
+    "Alan/Value hierarchy.md",
+    "Charles/Value hierarchy.md",
+    "Peter/Value hierarchy.md",
+    "René/Value hierarchy.md",
+    "Charles/Resonant narratives.md",
+    "Peter/Resonant narratives.md",
+    "René/Resonant narratives.md",
+    "Peter/Rites.md",
+    "René/Rites.md",
+    "Charles/Rites.md",
+    "René/Propagation tactics.md",
+    "Peter/Propagation tactics.md",
+    "Charles/Propagation tactics.md",
+    "Alan/Propagation tactics.md",
+    "Alan/Map of beliefs.canvas",
+    "Charles/Map of beliefs.canvas",
+    "Karl/Rites.md",
     "notes.md",
-    "Peter.md",
-    "René.md",
-    "Alan.md",
-    "Untitled.canvas",
+    "Karl/Value hierarchy.md",
+    "Karl/Resonant narratives.md",
     "README.md",
+    "René",
+    "Peter",
+    "Charles",
+    "Alan/Untitled.md",
+    "Alan",
+    "Karl",
     "Welcome.md",
     "create a link.md"
   ]

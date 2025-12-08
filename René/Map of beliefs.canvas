@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"7af938df0896f60c","type":"text","text":"On individual level, stop doing so much for others if they don't reciprocate the same amount of effort","x":-125,"y":-60,"width":250,"height":120,"color":"3"},
+		{"id":"28d84ca3ea08d353","type":"text","text":"People are born as a blank slate","x":-160,"y":-240,"width":250,"height":60,"color":"3"},
+		{"id":"beeeff29a7834dc6","type":"text","text":"People are usually changing throughout life","x":-285,"y":-380,"width":250,"height":60},
+		{"id":"c9af13152ac43967","type":"text","text":"Cohabitate with partner before marring them","x":-380,"y":-140,"width":160,"height":113,"color":"4"}
+	],
+	"edges":[]
+}
