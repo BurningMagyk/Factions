@@ -11,17 +11,14 @@
             "id": "961ad986deaeafdc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Karl/Map of beliefs.canvas",
-                "viewState": {
-                  "x": -565.412445730825,
-                  "y": 244.79594790159192,
-                  "zoom": -1.3932119324948546
-                }
+                "file": "Karl/Propagation tactics.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Map of beliefs"
+              "icon": "lucide-file",
+              "title": "Propagation tactics"
             }
           }
         ]
@@ -188,33 +185,33 @@
   },
   "active": "961ad986deaeafdc",
   "lastOpenFiles": [
-    "René/Map of beliefs.canvas",
+    "Karl/Resonant narratives.md",
     "Karl/Map of beliefs.canvas",
-    "Peter/Map of beliefs.canvas",
+    "René/Map of beliefs.canvas",
+    "René/Propagation tactics.md",
+    "notes.md",
+    "René/Value hierarchy.md",
+    "René/Resonant narratives.md",
     "Karl/Propagation tactics.md",
+    "README.md",
+    "Peter/Map of beliefs.canvas",
     "Alan/Rites.md",
     "Alan/Resonant narratives.md",
     "Alan/Value hierarchy.md",
     "Charles/Value hierarchy.md",
     "Peter/Value hierarchy.md",
-    "René/Value hierarchy.md",
     "Charles/Resonant narratives.md",
     "Peter/Resonant narratives.md",
-    "René/Resonant narratives.md",
     "Peter/Rites.md",
     "René/Rites.md",
     "Charles/Rites.md",
-    "René/Propagation tactics.md",
     "Peter/Propagation tactics.md",
     "Charles/Propagation tactics.md",
     "Alan/Propagation tactics.md",
     "Alan/Map of beliefs.canvas",
     "Charles/Map of beliefs.canvas",
     "Karl/Rites.md",
-    "notes.md",
     "Karl/Value hierarchy.md",
-    "Karl/Resonant narratives.md",
-    "README.md",
     "René",
     "Peter",
     "Charles",

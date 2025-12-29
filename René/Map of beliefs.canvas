@@ -3,7 +3,14 @@
 		{"id":"7af938df0896f60c","type":"text","text":"On individual level, stop doing so much for others if they don't reciprocate the same amount of effort","x":-125,"y":-60,"width":250,"height":120,"color":"3"},
 		{"id":"28d84ca3ea08d353","type":"text","text":"People are born as a blank slate","x":-160,"y":-240,"width":250,"height":60,"color":"3"},
 		{"id":"beeeff29a7834dc6","type":"text","text":"People are usually changing throughout life","x":-285,"y":-380,"width":250,"height":60},
-		{"id":"c9af13152ac43967","type":"text","text":"Cohabitate with partner before marring them","x":-380,"y":-140,"width":160,"height":113,"color":"4"}
+		{"id":"c9af13152ac43967","type":"text","text":"Cohabitate with partner before marring them","x":-380,"y":-140,"width":160,"height":113,"color":"4"},
+		{"id":"e8bb05d8b376845c","type":"text","text":"Only the individual can be\nobserved with certainty","x":366,"y":-309,"width":172,"height":139,"color":"4"},
+		{"id":"a9b933ea913a755e","type":"text","text":"The senses cannot be trusted","x":452,"y":25,"width":172,"height":70,"color":"4"},
+		{"id":"9d781e3c01679849","x":-40,"y":-536,"width":250,"height":76,"color":"3","type":"text","text":"Treat people with abundant\nkindness"},
+		{"id":"364ade8618c2c26a","x":374,"y":-554,"width":206,"height":112,"color":"4","type":"text","text":"People respond more effectively to positive emotion than negative"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"b5efef6bcaf5846e","fromNode":"a9b933ea913a755e","fromSide":"top","toNode":"e8bb05d8b376845c","toSide":"bottom"},
+		{"id":"73ad9cdf91933389","fromNode":"364ade8618c2c26a","fromSide":"left","toNode":"9d781e3c01679849","toSide":"right"}
+	]
 }
